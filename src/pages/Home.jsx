@@ -6,7 +6,7 @@ export default function Home(){
         <section className='bg-gradient-to-t from-bg-blue to-slate-900'>
             <Header />
 
-            <main className="flex flex-col items-center justify-between min-h-screen md:flex-row md:justify-center md:items-center md:space-x-8 px-4 md:px-16">
+            <main className="flex flex-col items-center justify-between min-h-screen md:flex-row md:justify-center md:items-center md:space-x-8 px-4 md:px-16 pb-4">
               <div className="order-2 md:order-1 text-center md:flex md:flex-col md:justify-center md:itemns-center md:text-left md:mb-5">
                 <h1 className="font-inter text-tittle-green font-black text-3xl md:text-6xl">
                   Cultivando o futuro com eficiência e inovação
