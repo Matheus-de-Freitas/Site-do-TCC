@@ -20,6 +20,7 @@ export default {
       spacing: {
         '128': '28rem',
         '100': '80rem',
+        '101': '40.25rem'
       },
 
       fontSize: {

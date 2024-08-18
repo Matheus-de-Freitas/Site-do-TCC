@@ -25,7 +25,7 @@ function Componentes() {
               <img src={Arduino} className="bg-tittle-green rounded-lg mx-auto lg:ml-9 w-56 mb-6 md:p-6 md:mb-0 lg:w-96" alt="Imagem de um Arduino" />
               <div className="texto">
                 <h2 className="lg:mb-12 lg:text-3xl text-tittle-green text-center font-inter text-lg font-bold mb-4">Arduino Mega</h2>
-                <p className="w-80 lg:w-auto ml-9 lg:max-w-3xl lg:text-x29 text-white font-inter font-normal text-sm mb-4 md:text-base md:mb-2">
+                <p className="w-80 lg:w-auto ml-9 lg:text-x29 text-white font-inter font-normal text-sm mb-4 md:text-base md:mb-2">
                   <span className="font-bold">Função:</span> O Arduino Mega é uma placa de microcontrolador projetada para projetos mais complexos e que exigem mais recursos do que as placas Arduino padrão, como o Uno. Ele possui um número maior de pinos digitais e analógicos, mais memória (RAM, flash e EEPROM), e um microcontrolador mais potente (ATmega2560)
                 </p>
                 <p className="w-80 lg:w-auto ml-9 lg:text-x29 text-white font-inter font-normal text-sm mb-16 md:text-base md:mb-2 md:mt-2">
@@ -41,7 +41,7 @@ function Componentes() {
               <div className="texto ml-9">
               <h2 className="lg:mb-12 lg:text-3xl text-tittle-green font-inter text-center text-lg font-bold mb-4">Bombas de Água Submersível</h2>
                 <p className="w-80 lg:w-auto lg:text-x29 text-white font-inter font-normal text-sm mb-4 md:text-base md:mb-2"> <span className='font-bold'>Função:</span>  A bomba de água submersível 24V é projetada para funcionar submersa e pode ser controlada por um microcontrolador, como o Arduino, para aplicações como irrigação automatizada, aquários, fontes decorativas e outros sistemas que necessitem de movimentação controlada de água.</p>
-                <p className="w-80 lg:w-auto lg:text-x29 text-white font-inter font-normal text-sm mb-16 md:text-base md:mb-2 md:mt-2"> <span className='font-bold'>Preço:</span>R$ 11,90</p>
+                <p className="w-80 lg:w-auto lg:text-x29 text-white font-inter font-normal text-sm mb-16 md:text-base md:mb-2 md:mt-2"> <span className='font-bold'>Preço:</span> R$ 11,90</p>
               </div>
 
               <img src={Bomba} className='w-56 bg-tittle-green rounded-lg mx-auto p-2xl mb-6 md:p-6 md:mb-0 md:mr-6 lg:w-96' alt="Imagem da bomba" />
@@ -66,7 +66,7 @@ function Componentes() {
               <img src={Sensor} className='w-56 bg-tittle-green rounded-lg mx-auto p-2xl mb-6 md:p-6 md:mb-0 md:mr-6 lg:w-96' alt="Imagem de uma lampada de led" />
               <div className="texto lg:max">
                 <h2 className="lg:mb-12 lg:text-3xl text-tittle-green font-inter text-center text-lg font-bold mb-4">Sensor Ultrassônico</h2>
-                <p className="w-80 lg:w-auto lg:text-x29 text-white font-inter font-normal text-sm mb-4 md:text-base md:mb-2"> <span className='font-bold'>Função:</span> Mede a distância entre o sensor e um objeto utilizando ondas ultrassonoras.</p>
+                <p className="w-80 lg:w-auto lg:text-x29 text-white font-inter font-normal text-sm mb-4 md:text-base md:mb-2"> <span className='font-bold'>Função:</span> O sensor ultrassônico para Arduino mede distâncias emitindo ondas sonoras e calculando o tempo de retorno após refletirem em um objeto. Com essa informação, ele determina a distância precisa entre o sensor e o objeto, sendo ideal para projetos de robótica e automação que exigem detecção de obstáculos ou medições de proximidade.</p>
                 <p className="w-80 lg:w-auto lg:text-x29 text-white font-inter font-normal text-sm mb-16 md:text-base md:mb-2 md:mt-2"> <span className='font-bold'>Preço:</span> R$ 11,90</p>
                 
               </div>
