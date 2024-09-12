@@ -19,9 +19,9 @@ function Componentes() {
 
           <h1 className="text-tittle-green text-3xl uppercase font-inter text-center font-black md:text-6xl m-10 mb-36">Componentes</h1>
           
-          <div className="arduino">
+          <div className="arduino flex itens-center justify-center">
             
-            <div className="flex flex-col items-center justify-center md:flex-row md:items-center lg:gap-40 lg:mr-9 lg:mb-32">
+            <div className="lg:max-w-7xl flex flex-col items-center justify-center md:flex-row md:items-center lg:gap-40 lg:mr-9 lg:mb-32">
               <img src={Arduino} className="bg-tittle-green rounded-lg mx-auto lg:ml-9 w-56 mb-6 md:p-6 md:mb-0 lg:w-96" alt="Imagem de um Arduino" />
               <div className="texto">
                 <h2 className="lg:mb-12 lg:text-3xl text-tittle-green text-center font-inter text-lg font-bold mb-4">Arduino Mega</h2>
